@@ -4,7 +4,7 @@ AI & Data Engineer at [Kapita Research](https://research.kapita.iq) in Baghdad. 
 
 B.Sc. in Information and Communication Engineering from Al-Nahrain University (2026), ranked first in my class. Outside work I build small tools, mostly in the browser and mostly for Arabic readers.
 
-[Portfolio](https://murtadha203.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/murtadha-najem-397293297/) | [Kaggle](https://www.kaggle.com/murtadhanajim) | [Email](mailto:mu0rttadha@gmail.com)
+[Portfolio](https://murtadha203.github.io/) | [LinkedIn](https://www.linkedin.com/in/murtadha-najem-397293297/) | [Kaggle](https://www.kaggle.com/murtadhanajim) | [Email](mailto:mu0rttadha@gmail.com)
 
 ## Featured work
 
