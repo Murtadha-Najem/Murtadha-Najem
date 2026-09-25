@@ -82,4 +82,4 @@ A family classifier routes each I/Q signal to a specialised CNN for ASK, FSK, PS
 
 ## Certifications
 
-[IBM Data Science](https://coursera.org/verify/professional-cert/6LTV2VZVEYDY), [IBM Data Analyst](https://coursera.org/verify/professional-cert/IZYZG9OCEM69), [IBM Machine Learning](https://www.coursera.org/account/accomplishments/specialization/279BE5Y65KKR), [Machine Learning Specialization, Stanford Online](https://www.coursera.org/account/accomplishments/specialization/6U6D7D2I973R)
+[Claude Certified Architect, Foundations (Anthropic)](https://www.credly.com/badges/cb34c813-b2ce-49c3-bd5b-5a0fc9023f9b), [IBM Data Science](https://coursera.org/verify/professional-cert/6LTV2VZVEYDY), [IBM Data Analyst](https://coursera.org/verify/professional-cert/IZYZG9OCEM69), [IBM Machine Learning](https://www.coursera.org/account/accomplishments/specialization/279BE5Y65KKR), [Machine Learning Specialization, Stanford Online](https://www.coursera.org/account/accomplishments/specialization/6U6D7D2I973R)
