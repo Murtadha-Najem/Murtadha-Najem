@@ -38,7 +38,8 @@ A family classifier routes each I/Q signal to a specialised CNN for ASK, FSK, PS
 |---|---|
 | [scraping-skill](https://github.com/murtadha203/scraping-skill) | Teaches a way of thinking about web scraping, with an encyclopedia of 170 tools |
 | [browser-use-skill](https://github.com/murtadha203/browser-use-skill) | Routes each browser task to the fastest tool instead of a screenshot per click |
-| [claude-reel](https://github.com/murtadha203/claude-reel) | Understands any Instagram reel or post from its link: local Arabic and English OCR, audio classification, Shazam |
+| [claude-reel](https://github.com/murtadha203/claude-reel) | Understands any Instagram reel or post from its link: local Arabic and English OCR, audio classification, Shazam. Built to be the foundation for larger tools |
+| [instagram-account-audit](https://github.com/murtadha203/instagram-account-audit) | A full audit of any Instagram account: engagement, genuine versus internal likes, and an expert review of the content, in a PDF report |
 
 ## Small things that run in the browser
 
