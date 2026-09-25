@@ -60,7 +60,6 @@ A family classifier routes each I/Q signal to a specialised CNN for ASK, FSK, PS
 | [esp32-smart-walkway](https://github.com/murtadha203/esp32-smart-walkway) | ESP32-CAM detects a person on the device and sends only those frames to a Flask server for face recognition |
 | [android-video-compress-TG-bot](https://github.com/murtadha203/android-video-compress-TG-bot) | Pulls videos off an Android phone, compresses them to HEVC and puts them back; also a Telegram bot |
 | [crochet_bot](https://github.com/murtadha203/crochet_bot) | Telegram bot that turns an image into a row-by-row crochet pattern, in Arabic |
-| [YouTube-to-MP3](https://github.com/murtadha203/YouTube-to-MP3) | Download YouTube audio locally or through a Telegram bot |
 | [InfiniteBaseCalc](https://github.com/murtadha203/InfiniteBaseCalc) | Converts and calculates in any base, including negative and fractional ones |
 | [num_calc](https://github.com/murtadha203/num_calc) | Numerical methods calculators built for my classmates during coursework |
 | [Chest X-ray classification](https://www.kaggle.com/code/murtadhanajim/x-ray-chest-different-models-with-86) | My first CNN project: custom models against MobileNet, ResNet and DenseNet |
