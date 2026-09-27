@@ -11,6 +11,7 @@ AI & Data Engineer at [Kapita Research](https://research.kapita.iq), Baghdad. I 
 - [hierarchical-llm-5g-control](https://github.com/Murtadha-Najem/hierarchical-llm-5g-control): multi-agent 5G/6G control with a safety-guarded LLM (graduation project)
 - [scraping-skill](https://github.com/Murtadha-Najem/scraping-skill) and [browser-use-skill](https://github.com/Murtadha-Najem/browser-use-skill): Claude Code skills for web scraping and fast browser work
 - [claude-reel](https://github.com/Murtadha-Najem/claude-reel) and [instagram-account-audit](https://github.com/Murtadha-Najem/instagram-account-audit): understand any Instagram post, or audit a whole account
+- [instagram-reel-bot](https://github.com/Murtadha-Najem/instagram-reel-bot): a helper Instagram account that looks up what the reels you send it show and answers in the chat
 
 More, including things I built for fun, on [my website](https://murtadha-najem.github.io/).
 
